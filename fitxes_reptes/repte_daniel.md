@@ -1,8 +1,8 @@
-**Repte 1**: [Nom del repte]
+**Repte 2**: [Habitatge car]
 
 | Camp| Detalls|
 | --- | --- |
-| **Tipus** | (_Selecciona: Ambiental, Social, Mixt_) |
+| **Tipus** | L'Hospitalet de Llobregat |
 | **Ubicació** | (_Descriu el barri, la zona on té lloc_) |
 | **Descripció del problema** | (_Explica de forma clara què està passant, quin és el repte_)  |
 | **Col·lectius afectats** | (_Stakeholders: qui pateix el problema, qui el provoca, qui hi està implicat. Descriu cada col·lectiu i la seva  implicació_ )  |
