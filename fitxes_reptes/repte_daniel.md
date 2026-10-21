@@ -1,4 +1,4 @@
-**Repte 2**: [Excés de soroll als carrers]
+**Repte 2**: Excés de soroll als carrers
 
 | Camp| Detalls|
 | --- | --- |
