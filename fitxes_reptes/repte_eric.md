@@ -1,4 +1,4 @@
-**Repte 1**: [Residus abandonats al parc del barri]
+**Repte 1**: [Residus abandonats als parcs]
 
 | Camp | Detalls |
 | --- | --- |
